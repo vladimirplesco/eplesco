@@ -1,3 +1,5 @@
+import lax from "lax.js";
+
 lax.init()
 
     // Add a driver that we use to control our animations
